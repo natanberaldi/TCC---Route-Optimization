@@ -1,8 +1,8 @@
 # Eficiência e Previsão no Transporte Público através da Inteligência Artificial: Análise de Dados Urbanos
-Autor: Natan Castanhera Beraldi
-Orientadora: Prof.ª. Dra. Maria Glória Caño de Andrade
-Instituição: Universidade Estadual Paulista (UNESP) - Instituto de Ciência e Tecnologia de Sorocaba
-Ano: 2025
+- Autor: Natan Castanhera Beraldi
+- Orientadora: Prof.ª. Dra. Maria Glória Caño de Andrade
+- Instituição: Universidade Estadual Paulista (UNESP) - Instituto de Ciência e Tecnologia de Sorocaba
+- Ano: 2025
 
 # Descrição
 Este repositório contém o código desenvolvido para o Trabalho de Conclusão de Curso intitulado "Eficiência e Previsão no Transporte Público através da Inteligência Artificial: Análise de Dados Urbanos". O projeto utiliza Python para analisar dados de tráfego e transporte público, aplicando machine learning para prever padrões de demanda e otimizar rotas.

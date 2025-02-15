@@ -17,9 +17,9 @@ from flexpolyline import decode as decode_flexible_polyline
 # =============================================================================
 
 # Chave de acesso à API HERE.
-HERE_API_KEY = "pFkT_7Exa59sbAQxMcgTP06x1tdUom8SQjQBfyPti3g"
+HERE_API_KEY = ""
 # Chave de acesso à API Google.
-GOOGLE_API_KEY = "AIzaSyCAaAqMbRo1B4aNUDWlT-qTQcl6j2nfDIw"
+GOOGLE_API_KEY = ""
 # Diretório onde estão armazenados os modelos de cada agrupamento.
 MODEL_DIR = r"D:\Projetos\Resultados\Treino_Agrupamentos"
 # Caminho do arquivo que resume limites geográficos (bounding boxes) de cada agrupamento.
